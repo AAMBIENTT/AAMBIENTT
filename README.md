@@ -6,7 +6,7 @@
 
 Welcome to my Github page! I am AAMBIENTT and I am currently working on a few game projects and plugins that everyone can enjoy.
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://cdn.discordapp.com/attachments/857732516781096991/874734516487479326/unnamed.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -23,5 +23,3 @@ Welcome to my Github page! I am AAMBIENTT and I am currently working on a few ga
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 </p>
-
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
