@@ -10,8 +10,8 @@ Welcome to my Github page! I am AAMBIENTT and I am currently working on a few ga
 
 
 #### 🌱 Things I am currently working on: 
-- AEBAL  
-- Better Loading Screen mod for VRChat
+- [AEBAL](https://www.youtube.com/watch?v=Do0dp6_5bMA)
+- [Better Loading Screen mod for VRChat](https://github.com/Grummus/BetterLoadingScreen)
 
 #### :muscle: Things I am challenging myself with:
 - Life
