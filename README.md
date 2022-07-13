@@ -6,9 +6,6 @@
 
 Welcome to my Github page! I am AAMBIENTT and I am currently working on a few game projects and plugins that everyone can enjoy.
 
-<img align="right" alt="img" src="" width="50%" height="auto" />
-
-
 #### 🌱 Things I am currently working on: 
 - [Better Loading Screen mod for VRChat](https://github.com/Grummus/BetterLoadingScreen)
 
@@ -21,4 +18,5 @@ Welcome to my Github page! I am AAMBIENTT and I am currently working on a few ga
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://static.cdnlogo.com/logos/c/27/c.svg"></code>
 </p>
