@@ -6,15 +6,14 @@
 
 Welcome to my Github page! I am AAMBIENTT and I am currently working on a few game projects and plugins that everyone can enjoy.
 
-<img align="right" alt="img" src="https://cdn.discordapp.com/attachments/857732516781096991/874734516487479326/unnamed.png" width="50%" height="auto" />
+<img align="right" alt="img" src="" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
-- [AEBAL](https://www.youtube.com/watch?v=Do0dp6_5bMA)
 - [Better Loading Screen mod for VRChat](https://github.com/Grummus/BetterLoadingScreen)
 
 #### :muscle: Things I am challenging myself with:
-- Life
+- Moving to a new country
 
 #### :computer: Programming languages and tools: 
 <p>
