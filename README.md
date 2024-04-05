@@ -7,7 +7,8 @@
 Welcome to my Github page! I am AAMBIENTT and I am currently working on a few game projects and plugins that everyone can enjoy.
 
 #### 🌱 Things I am currently working on: 
-- [Better Loading Screen mod for VRChat](https://github.com/Grummus/BetterLoadingScreen)
+- [Better Loading Screen mod for VRChat (Killed)](https://github.com/Grummus/BetterLoadingScreen)
+- [Hexbot (Private)]
 
 #### :muscle: Things I am challenging myself with:
 - Moving to a new country
