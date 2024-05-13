@@ -9,7 +9,7 @@ Welcome to my Github page! I am AAMBIENTT and I am currently working on a few ga
 #### 🌱 Things I am currently working on: 
 - [Better Loading Screen mod for VRChat (Killed)](https://github.com/Grummus/BetterLoadingScreen)
 - [Hexbot (Private)]
-- [FlightPlan] (https://github.com/AAMBIENTT/FlightPlan-for-Discord/)
+- [FlightPlan](https://github.com/AAMBIENTT/FlightPlan-for-Discord/)
 
 #### :muscle: Things I am challenging myself with:
 - Moving to a new country
